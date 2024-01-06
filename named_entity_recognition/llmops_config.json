@@ -2,7 +2,7 @@
     "envs":[
             {
                 "ENV_NAME": "pr",
-                "RUNTIME_NAME": "mypfAppRuntime",
+                "RUNTIME_NAME": "default",
                 "KEYVAULT_NAME": "kenakamuaml8950381653",
                 "RESOURCE_GROUP_NAME": "ai",
                 "WORKSPACE_NAME": "kenakamuaml",
@@ -11,7 +11,7 @@
             },
             {
                 "ENV_NAME": "dev",
-                "RUNTIME_NAME": "mypfAppRuntime",
+                "RUNTIME_NAME": "default",
                 "KEYVAULT_NAME": "kenakamuaml8950381653",
                 "RESOURCE_GROUP_NAME": "ai",
                 "WORKSPACE_NAME": "kenakamuaml",
@@ -20,7 +20,7 @@
             },
             {
                 "ENV_NAME": "postprodeval",
-                "RUNTIME_NAME": "mypfAppRuntime",
+                "RUNTIME_NAME": "default",
                 "KEYVAULT_NAME": "kenakamuaml8950381653",
                 "RESOURCE_GROUP_NAME": "ai",
                 "WORKSPACE_NAME": "kenakamuaml",
